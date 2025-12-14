@@ -1,0 +1,6 @@
+python-telegram-bot
+google-genai
+requests
+beautifulsoup4
+lxml
+setuptools
